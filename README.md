@@ -53,4 +53,4 @@ The dataset includes news articles categorized into the following classes:
 - Sports
 
 ##Image Gallery
-
+![Alt Text](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/image/img-1.jpg?raw=true)
